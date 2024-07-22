@@ -1,40 +1,14 @@
-# [Tailwind Toolbox](https://www.tailwindtoolbox.com/) - [Profile-Card](https://www.tailwindtoolbox.com/templates/profile-card)
+# Profile-Card
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTYxN3B3Y3hhb2gzbGVyM2FtazdtcTg4cjNlcHl0MnpkZTh1cW92eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/J2hADbFB22351mKf8y/giphy.gif" height="100"/></a>
 
-[Profile Card](https://www.tailwindtoolbox.com/templates/profile-card) is a single page template for use as a user profile website / card created in [Tailwind CSS](https://tailwindcss.com/) by [Tailwind Toolbox](https://www.tailwindtoolbox.com/).
-
-![Profile Card](https://www.tailwindtoolbox.com/templates/profile-card.png)
 
 ## Getting Started
-
-Choose one of the following options to get started:
-* [Download the latest release](https://github.com/tailwindtoolbox/Profile-Card/archive/master.zip)
-* Clone the repo: `git clone https://github.com/tailwindtoolbox/Profile-Card.git`
-* Fork the repo
+* This profile card includes a database for users to connect with me, along with a brief summary of my academic and professional background.
 
 ## Using the Template
 
-The template is just a HTML file using a full CDN hosted Tailwind CSS file.
-
-To get the best out of Tailwind CSS, you need to really start customising it.
-Take a look at our [setup guide](https://www.tailwindtoolbox.com/setup) to start tweaking!
-
-## Bugs and Issues
-
-Have a bug or an issue with this template? [Open a new issue](https://github.com/tailwindtoolbox/Profile-Card/issues/new) here on GitHub.
-
-## Creator
-
-[Tailwind Toolbox](https://www.tailwindtoolbox.com/) was created by and is maintained by **[Amrit Nagi](https://amritnagi.info/)**, Co-owner of [Astrava.Solutions](https://astrava.solutions).
-
-* https://twitter.com/tailwindtoolbox
-* https://twitter.com/amritnagi
-* https://github.com/tailwindtoolbox
-
-Tailwind Toolbox is based on the [Tailwind CSS](https://www.tailwindcss.com/) framework created by [Adam Wathan](https://twitter.com/adamwathan), [Jonathan Reinink](https://twitter.com/reinink), [David Hemphill](https://twitter.com/davidhemphill) and [Steve Schoger](https://twitter.com/steveschoger)
-
-
-
+* The template is just a HTML file using a full CDN hosted Tailwind CSS file.
 
 ## Copyright and License
 
-Copyright 2018-2019 Astrava.Solutions Ltd. Code released under the MIT license.
+* Copyright 2018-2019 Astrava.Solutions Ltd. Code released under the MIT license.
